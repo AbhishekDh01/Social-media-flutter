@@ -1,6 +1,6 @@
-# Instagram Clone by Flutter 
+# Social Media App by Flutter 
 
-Fully functional Instagram clone app developed using **Flutter** and **Google Firebase**. With both Frontend and Backend.
+Fully functional Social Media app developed using **Flutter** and **Google Firebase**. With both Frontend and Backend.
 
 Apk : [Insta_clone](https://github.com/AbhishekDh01/Instagram-clone-flutter/blob/main/insta_clone_1.apk)
 
@@ -8,7 +8,6 @@ Apk : [Insta_clone](https://github.com/AbhishekDh01/Instagram-clone-flutter/blob
 1. Sing-in and Sign-up using email id.
 2. Post photos using gallery or camera.
 3. like feature on posts.
-4. Full Instagram UI.
 5. Image grid feature on search.
 6. Shows all registered users, their profile and posts.
 7. Follow/Unfollow feature.
